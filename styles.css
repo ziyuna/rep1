@@ -1,0 +1,10 @@
+*{
+margin:0px;
+padding:0px;
+}
+body{
+background-color:blue;
+}
+h1:hover{
+trasition-time-function:ease;
+}
